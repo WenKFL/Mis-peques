@@ -1,0 +1,16 @@
+{
+  "name": "Mis Peques",
+  "short_name": "Mis Peques",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6fa",
+  "theme_color": "#f05b96",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
